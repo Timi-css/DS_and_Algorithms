@@ -26,6 +26,6 @@ Big O allows to us to discuss the relationship between the input of an algorithm
 >
 > > if the number of operations is constant, regardless of the input, Big O = 1 i.e O(1) and runtime remains constant
 > > if the number of operations changes or is directly proportionate to (n) or input, then the Big O is O(n) and runtime changes as input changes
-> > if an operation is nested inside another operation Big O is O(n _ n) or O(n _ n \* n)
+> > if an operation is nested inside another operation Big O is O(n \* n) or O(n \* n \* n)
 
 ## Space Complexity
