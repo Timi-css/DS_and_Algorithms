@@ -15,9 +15,10 @@ Big O allows to us to discuss the relationship between the input of an algorithm
 > Tips:
 >
 > > f(n) = function
-> > f(n) could be linear = (f(n) = n)
-> > f(n) could be quadratic = (f(n) = n^2)
-> > f(n) could be constant = (f(n) = 1)
+> >
+> > > f(n) could be linear = (f(n) = n)
+> > > f(n) could be quadratic = (f(n) = n^2)
+> > > f(n) could be constant = (f(n) = 1)
 
 > Big O refers to the worst case scenario
 >
